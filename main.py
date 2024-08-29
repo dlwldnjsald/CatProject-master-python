@@ -78,3 +78,5 @@ get_cat_button = Button(root, text="Get Random Cat", command=update_gui, font=("
 get_cat_button.pack()
 
 root.mainloop()
+
+# description으로 변경함 
