@@ -1,3 +1,10 @@
+/* 
+웹 애플리케이션 (HTML, JS, CSS)과 Python GUI 애플리케이션은 
+별개의 애플리케이션입니다. 
+필요에 따라 둘 중 하나를 선택하여 사용하면 됩니다.
+
+*/
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -31,4 +38,10 @@ body {
     border-radius: 5px;
     background-color: #007BFF;
     color: white;
+    margin-bottom: 20px;
+}
+
+#catInfo p {
+    margin: 10px 0;
+    font-size: 14px;
 }
