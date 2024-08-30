@@ -4,7 +4,7 @@ from tkinter import Label, Button
 from PIL import Image, ImageTk
 from io import BytesIO
 
-API_KEY = 'myapikey넣어야함 '  # 실제 API 키로 교체
+API_KEY = 'live_qkr8Ygbh7g7mprh23SZ1dNJbxbV13ETAVCizkGvro8zezBk25WlDobi7ny1nAM55'  # 실제 API 키로 교체
 
 def get_cat_data():
     try:
